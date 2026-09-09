@@ -1,0 +1,10 @@
+{
+  "entry": "main.typ",
+  "metadata": {
+    "author": "A.V.V. Satyanarayana · N. Sai Sudheer · K. Shanmukha",
+    "subtitle": "Project Documentation, Detection Coverage & Workflow",
+    "title": "AI-Powered URL Detector"
+  },
+  "mode": "report",
+  "theme": "report-theme.typ"
+}
