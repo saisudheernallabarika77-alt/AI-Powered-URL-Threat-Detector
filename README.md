@@ -1,5 +1,8 @@
 # AI-Powered URL Threat Detector
 
+https://urlanalyzer-fh4wtdal.manus.space/
+
+
 An AI-assisted URL threat intelligence console that helps users inspect suspicious links before opening them. The application analyzes URL structure, transport/security signals, redirects, and common attack patterns, then presents a clear risk explanation and VirusTotal-backed verdict when the integration is available.
 
 ## Features
